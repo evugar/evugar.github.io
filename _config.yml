@@ -4,7 +4,7 @@
 ##########################################
 
 # Set this for Copyright in the footer
-owner: Name Surname
+owner: Vugar Afandiyev
 
 # Optional quote in the footer
 # To disable set enable to false
@@ -16,14 +16,14 @@ quote:
 # Set this to your main site title
 # In the head - ff page doesnt have its own title,
 # Site title will be used instead
-title: Aliquam Theme - Author Dennis Grinch
+title: My personal blog
 
 # Description and title below nav in the header
 punch-line: true
 
 # Your logo for the header
 logo:
-  title: John Doe
+  title: Vugar Afandiyev
   subtitle: Designer & Developer
 
 include:
@@ -38,7 +38,7 @@ disqus:
 
 # Set your host if deployed not locally
 # For example "https://yourGitHub.github.io"
-url:
+url: "https://evugar.github.io"
 
 # Change this to your base URL starting with forward slash if site is in gh-pages branch
 # For example /branchName
