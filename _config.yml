@@ -10,8 +10,8 @@ owner: Vugar Afandiyev
 # To disable set enable to false
 quote:
   enable: true
-  quote: Some fancy quote.
-  author: John Doe
+  quote: Statistics don't work when the sample size is one.
+  author: Peter Thiel
 
 # Set this to your main site title
 # In the head - ff page doesnt have its own title,
@@ -24,7 +24,7 @@ punch-line: true
 # Your logo for the header
 logo:
   title: Vugar Afandiyev
-  subtitle: Designer & Developer
+  subtitle: CNC & Hobbyelectronics
 
 include:
   - pages
